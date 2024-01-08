@@ -10,4 +10,5 @@ In exploring the relationship between technology and real estate, my hypothesis 
 ![image](https://imageio.forbes.com/blogs-images/valleyvoices/files/2018/02/Bain-cap.jpg?height=468&width=711&fit=bounds)
 
 Thank you.
+
 Valles
