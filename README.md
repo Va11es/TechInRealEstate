@@ -24,6 +24,9 @@ This repository explores the transformative impact of technology on the real est
 - **Python:** For data manipulation and analysis.
 - **Matplotlib:** For custom visualization designs.
 - **Pandas:** For efficient data wrangling.
+- **NumPy:** For numerical operations and array handling.
+- **Jupyter Notebooks:** For interactive analysis and sharing code with detailed explanations.
+- **Seaborn:** For enhancing statistical visualizations.
 
 ---
 
