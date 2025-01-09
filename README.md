@@ -33,5 +33,5 @@ This repository explores the transformative impact of technology on the real est
 
 ---
 
-Thank you for exploring this project! For questions or collaborations, feel free to reach out.
-Valles
+For questions or collaborations, feel free to reach out.
+- Valles
