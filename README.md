@@ -28,10 +28,10 @@ This repository explores the transformative impact of technology on the real est
 ---
 
 ## Creative Report Showcase
--As part of this project, I designed a technical report and magazine to present findings in an engaging and visually appealing format. Below is a preview of the cover.
-![Real Estate Tech Trends](https://imageio.forbes.com/blogs-images/valleyvoices/files/2018/02/Bain-cap.jpg?height=468&width=711&fit=bounds)
+As part of this project, I designed a technical report and magazine to present findings in an engaging and visually appealing format.
+
+[**View the Full Report**](https://github.com/Va11es/capstone/blob/main/DigitalShift.pdf)
 
 ---
 
 For questions or collaborations, feel free to reach out.
-- Valles
